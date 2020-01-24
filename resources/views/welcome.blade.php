@@ -1,5 +1,7 @@
 @extends("layout.master")
 @section("title","Home Page")
 @section("content")
- <h1 class="text-info text-center"> Home Page</h1>
+<div class="container-fluid bg-dark">
+    <h1 align="center">Welcome From Our Home Page</h1>
+</div>
     @endsection
